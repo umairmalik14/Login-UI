@@ -1,4 +1,4 @@
-# lgoin_ui
+# Flutter lgoin_ui
 
 A new Flutter project.
 
